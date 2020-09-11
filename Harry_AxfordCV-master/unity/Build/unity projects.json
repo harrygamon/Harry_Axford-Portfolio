@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MyFirstGame",
+"productVersion": "1.1.1-preview",
+"dataUrl": "unity projects.data.unityweb",
+"wasmCodeUrl": "unity projects.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity projects.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
